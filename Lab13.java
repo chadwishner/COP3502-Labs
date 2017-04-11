@@ -1,5 +1,5 @@
 public class Lab13 {
-	public static void manin(String [] args){
+	public static void main(String [] args){
 		
 		Shape x = new Circle("purple", 5);
 		System.out.println(x);
